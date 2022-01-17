@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Skyes Sweet Treats",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Grid Website"
+	}
+}
